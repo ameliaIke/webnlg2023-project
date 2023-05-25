@@ -1,0 +1,28 @@
+prefix,input_text,target_text
+webNLG,[],"['The ISBN number of 1634: The Ram Rebellion is 1-4165-2060-0.', '1634: The Ram Rebellion has the ISBN number 1-4165-2060-0.', '1634: The Ram Rebellion has an ISBN number 1-4165-2060-0.']"
+webNLG,[],"['Eric Flint is the author of 1634: The Ram Rebellion.', 'Eric Flint wrote the book ""1634: The Ram Rebellion"".', '1634: The Ram Rebellion was written by Eric Flint.']"
+webNLG,[],['1634: The Ram Rebellion was published in print.']
+webNLG,[],"['The AIDS journal was published in the United Kingdom.', 'AIDS journal is from the United Kingdom.', 'AIDS (journal) is published in the UK.']"
+webNLG,[],"['A Glastonbury Romance has the OCLC number 76798317.', 'The OCLC number of ""A Glastonbury Romance is 76798317.', 'The OCLC number for A Glastonbury Romance is 76798317.']"
+webNLG,[],"['""A Glastonbury Romance "" can be found in hardcover.', 'A Glastonbury Romance is available in hardcover.']"
+webNLG,[],['A Long Long Way is written in the English language.']
+webNLG,[],"['Diane Duane wrote A Wizard of Mars.', 'A Wizard of Mars was written by Diane Duane.', 'the author Diane Duane wrote the book A wizard of Mars.']"
+webNLG,[],"['The Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg ISSN number is ""0025-5858"".', 'Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg can be located by the ISSN number ""0025-5858"".', 'The ISSN number of Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg is 0025-5858.']"
+webNLG,[],"['Garth Nix is the author of Above the Veil.', 'The author of Above the Veil is Garth Nix.']"
+webNLG,[],['Above the Veil was produced in Print.']
+webNLG,[],"['Acta Palaeontologica Polonica has the ISSN number 0567-7920.', 'The Acta Palaeontologica Polonica ISSN number is ""0567-7920"".', 'The ISSN number for Acta Palaeontologica Polonica is 0567-7920.']"
+webNLG,[],"['The journal Addiction has the LCCN number 93645978.', 'The Addiction journal has an LCCN number of 93645978.', 'The LCCN number of Addiction journal is 93645978.']"
+webNLG,[],"['Addiction journal is about addiction.', 'Addiction (journal) is about Addiction.']"
+webNLG,[],['Aenir is written in English.']
+webNLG,[],"['Alcatraz Versus the Evil Librarians is from The United States.', 'The book Alcatraz Versus the Evil Librarians comes from the U.S.']"
+webNLG,[],"['The book Alcatraz Versus the Evil Librarians is written in English.', 'Alcatraz Versus the Evil Librarians was in English.', 'Alcatraz Versus the Evil Librarians is written in the English language.']"
+webNLG,[],"['The American Journal of Mathematics studies mathematics.', 'The American Journal of Mathematics discipline is Math.', 'The academic discipline of the American Journal of Mathematics is Mathematics.']"
+webNLG,[],"['The novel ""Castle"" is written in English.', 'Castle (the novel) is written in the English language.', 'Castle (novel) was written in English.']"
+webNLG,[],"['Burbank California is the birth place of Eric Flint.', 'Eric Flint was born in Burbank, California.']"
+webNLG,[],"['Macmillan publishers are the parent company of Farrar, Straus and Giroux.', 'The parent company of Farrar, Straus and Giroux is Macmillan Publishers.', 'Macmillan Publishers is the parent company of Farrar, Straus and Giroux.']"
+webNLG,[],"['A Glastonbury Romance is John Cowper Powys notable work.', 'A notable work of John Cowper Powys is A Glastonbury Romance.']"
+webNLG,[],"['The Soho Press is located in the U.S.', 'Soho Press is located in the United States.', 'Soho Press is based in the United States.']"
+webNLG,[],"['The Secret Scripture is published by Faber and Faber.', 'Faber and Faber publish The Secret Scripture.', 'The Secret Scripture was published by Faber and Faber.']"
+webNLG,[],"['The United States has an ethnic group called Asian Americans.', 'Asian Americans is one of the ethnic groups in the United States.', 'The US includes many Asian Americans.']"
+webNLG,[],"['English is the language of the United States.', 'The language of the United States is English.']"
+webNLG,[],"['A Glastonbury Romance preceded Weymouth Sands.', 'A Glastonbury Romance was published before Weymouth Sands.', 'Weymouth Sands was preceded by A Glastonbury Romance.']"

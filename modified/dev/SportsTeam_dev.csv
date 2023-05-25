@@ -1,0 +1,33 @@
+prefix,input_text,target_text
+webNLG,['1._FC_Köln | manager | Peter_Stöger'],"['Peter Stoger is the manager of FC Kolin.', 'Peter Stöger is manager of 1. FC Köln.', 'The manager of 1. FC Koln is Peter Stoger.']"
+webNLG,['1._FC_Magdeburg | season | 2014'],['1 FC Magdeburg played in the 2014 season.']
+webNLG,['A.C._Lumezzane | season | 2014–15_Lega_Pro'],"['A C Lumezzane played the 2014-2015 season in Lega Pro.', 'Lumezzane played in the Lega Pro during the 2014 season.']"
+webNLG,"['A.D._Isidro_Metapán | fullname | ""Asociación Deportiva""']","['A.D. Isidro Metapan\'s full name is ""Asociación Deportiva"".', ""A.D. Isidro Metapán's full name is Asociación Deportiva."", 'The fullname of A.D. Isidro Metapan is Asociacion Deportiva.']"
+webNLG,"['A.E_Dimitra_Efxeinoupolis | fullname | ""A.E Dimitra Efxeinoupolis""']","[""A.E Dimitra Efxeinoupolis's full name is A.E Dimitra Efxeinoupolis."", '""A.E Dimitra Efxeinoupolis"" is the full name of A.E Dimitra Efxeinoupolis.', 'A.E Dimitra Efxeinoupolis has the fullname A.E Dimitra Efxeinoupolis.']"
+webNLG,['A.E_Dimitra_Efxeinoupolis | season | 2014'],"['A.E Dimitra Efxeinoupolis played in the 2014 season.', 'A.E Dimitia Efxeinoupolis were in the 2014 season.', 'A.E Dimitra Efxeinoupolis played in season 2014.']"
+webNLG,"['A.E_Dimitra_Efxeinoupolis | season | 2014–15_A_EPSTH,_Greece']","['A.E Dimitra Efxeinoupolis were in the 2014–15 A EPSTH. Greece season.', 'A.E Dimitra Efxeinoupolis were in the 2014-15 A EPSTH, Greece.']"
+webNLG,['A.F.C._Blackpool | numberOfMembers | 1500'],['A.F.C. Blackpool has 1500 members.']
+webNLG,['A.F.C._Fylde | ground | The_Fylde'],"['The Fylde is the home ground of AFC Fylde.', 'AFC Fylde has the home ground called The Fylde.']"
+webNLG,['A.S._Gubbio_1910 | ground | Italy'],['The ground of A.S. Gubbio 1910 is located in Italy.']
+webNLG,['A.S._Livorno_Calcio | numberOfMembers | 19238'],"['A.S. Livorno Calcio has 19238 members.', 'The AS Livorno Calcio has 19238 members.', 'The A.S. Livorno Calcio has 19238 members.']"
+webNLG,['A.S._Roma | season | 2014–15_Serie_A'],['A.S. Roma were in Serie A in 2014-15.']
+webNLG,['AFC_Ajax | manager | Frank_de_Boer'],"['Frank de Boer manages the AFC Ajax team.', ""AFC Ajax's manager is Frank de Boer."", 'The manager of AFC Ajax is Frank de Boer.']"
+webNLG,"['AFC_Ajax_(amateurs) | nickname | ""Joden , Godenzonen""']","['AFC Ajax (amateurs) have the nickname ""Joden , Godenzonen"".', ""The AFC Ajax team's nickname is Joden, Godenzonen."", 'AFC Ajax (amateurs) nickname is Joden, Godenzonen.']"
+webNLG,['AFC_Ajax_(amateurs) | numberOfMembers | 5000'],"['AFC Ajax has 5000 Members.', 'AFC Ajax (amateurs) has 5000 members.']"
+webNLG,"['AZAL_PFK | location | ""Shuvalan, Baku, Azerbaijan""']","['AZAL PFK is located at Shuvalan, Baku, Azerbaijan.', 'AZAL PFK is located in Shuvalan, Baku, Azerbaijan.']"
+webNLG,['AZ_Alkmaar | numberOfMembers | 17023'],['AZ Alkmaar has 17023 members.']
+webNLG,['Agremiação_Sportiva_Arapiraquense | manager | Vica'],['Agremiacao Sportiva Arapiraquense are managed by Vica.']
+webNLG,['Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C'],"['Agremiação Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro Série C.', 'Agremiacao Sportiva Arapiraquense were in Campeonato Brasileiro Serie C in 2015.']"
+webNLG,['Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School'],"[""Akron Summit Assault's ground is St. Vincent-St. Mary High School."", 'St Vincent-St Mary High School is the ground of Akron Summit Assault.']"
+webNLG,['Akron_Summit_Assault | numberOfMembers | 3000'],"['Akron Summit Assault has 3000 members.', 'Akron Summit Assault has got 3000 members.']"
+webNLG,['Amsterdam | part | Amsterdam-Centrum'],['Amsterdam-Centrum is part of Amsterdam.']
+webNLG,['Greece | leader | Nikos_Voutsis'],['The leader of Greece is Nikos Voutsis.']
+webNLG,['Gus_Poyet | club | AEK_Athens_F.C.'],"['Gus Poyet is in AEK Athens F.C.', 'Gus Poyet plays for AEK Athens F.C.']"
+webNLG,['Jens_Härtel | club | SV_Germania_Schöneiche'],['Jens Hartel plays for SV Germania Schoneiche.']
+webNLG,['John_van_den_Brom | club | AZ_Alkmaar'],"['John van den Brom plays at the AZ Alkmaar club.', 'John van den Brom plays for AZ Alkmaar.']"
+webNLG,['Jorge_Humberto_Rodríguez | club | A.D._Isidro_Metapán'],"[""Jorge Humberto Rodriguez's club is A.D. Isidro Metapan."", 'Jorge Humberto Rodríguez is with the A.D. Isidro Metapán club.', 'Jorge Humberto Rodríguez was a member of the club A.D. Isidro Metapán.']"
+webNLG,['Massimo_Drago | club | Delfino_Pescara_1936'],['Massimo Drago is attached to the club Delfino Pescara 1936.']
+webNLG,['Massimo_Drago | club | S.S._Chieti_Calcio'],"['Massimo Drago plays for S.S.Chieti Calcio.', ""Massimo Drago's club is the S.S. Chieti Calcio."", 'Massimo Drago plays for S.S. Chieti Calcio.']"
+webNLG,['Olympic_Stadium_(Athens) | location | Marousi'],"['The Olympic Stadium (Athens) is located at Marousi.', 'The Olympic Stadium (Athens) is located in Marousi.']"
+webNLG,['Premier_Development_League | champions | K-W_United_FC'],"['K-W United FC have been champions of the Premier Development League.', 'K-W United FC were champions at the Premier Development League.']"
+webNLG,['Stuart_Parker_(footballer) | club | Bury_F.C.'],"['Stuart Parker played football for Bury FC.', 'The footballer Stuart Parker plays for the Bury FC.']"

@@ -1,0 +1,35 @@
+prefix,input_text,target_text
+webNLG,"['Ajoblanco | alternativeName | ""Ajo blanco""']","['The alternative name for Ajoblanco is ""Ajo blanco"".', 'Ajo blanco is an alternative name to Ajoblanco.', 'Ajo blanco is an alternative name of Ajoblanco.']"
+webNLG,"['Ajoblanco | mainIngredients | ""Bread, almonds, garlic, water, olive oil""']","['The main ingredients in ajoblanco are bread, almonds, garlic, water and olive oil.', 'Bread, almonds, garlic, water, and olive oil are the main ingredients in Ajoblanco.', 'The main ingredients of Ajoblanco are bread, almonds, garlic, water, olive oil.']"
+webNLG,"['Arem-arem | region | ""Nationwide in Indonesia, but more specific to Java""']","['Arem-arem is found nationwide in Indonesia, but is more specific to Java.', 'Arem-arem is nationwide in Indonesia, but more specific to Java.']"
+webNLG,['Arem-arem | region | Indonesia'],['Arem arem comes from Indonesia.']
+webNLG,"['Arrabbiata_sauce | mainIngredients | ""Tomatoes, red chili, garlic, olive oil""']","['Arrabbiata sauce is made with tomatoes, red chili, garlic and olive oil.', 'the main ingredients in Arrabbiata sauce are Tomatoes, red chili, garlic and olive oil.']"
+webNLG,['Arròs_negre | ingredient | Cuttlefish'],"['Cuttlefish is an ingredient in Arros negre.', 'Cuttlefish is an ingredient of the dish Arròs negre.']"
+webNLG,['Arròs_negre | ingredient | Squid'],['Squid is an ingredient of Arros negre.']
+webNLG,['Asam_pedas | country | Malaysia'],['Asam pedas is a food found in Malaysia.']
+webNLG,['Avocado | genus | Persea'],"['The genus of the avocado is persea.', 'The genus of Avocado is Persea.']"
+webNLG,"['Ayam_penyet | servingTemperature | ""Hot""']","['Ayam penyet should be served hot.', 'Ayam penyet is a dish that should be served hot.', 'ayam penyet is served hot.']"
+webNLG,['Baked_Alaska | course | Dessert'],['Baked Alaska is a dessert.']
+webNLG,['Bakewell_tart | ingredient | Frangipane'],"['An ingredient of bakewell tart is frangipane.', 'Frangipane is an ingredient in a Bakewell tart.', 'Frangipane is an ingredient of Bakewell tart.']"
+webNLG,['Bakso | ingredient | Noodle'],"['The dish Bakso contains noodles.', 'Noodle is an ingredient in Bakso.', 'bakso contains noodles.']"
+webNLG,['Bakso | ingredient | Vermicelli'],"['Vermicelli is an ingredient in Bakso.', 'Vermicelli is an ingredient of the dish Bakso.', 'Vermicelli is included in bakso.']"
+webNLG,['Bandeja_paisa | ingredient | Chorizo'],"['Chorizo is an ingredient in the dish Bandeja paisa.', 'Chorizo is an ingredient in Bandeja paisa.']"
+webNLG,['Barny_Cakes | creator | Mondelez_International'],"['Mondelez International is the creator of Barny cakes.', 'Barny cakes were created by Mondelez International.', 'Barny cakes is created by Mondelez International.']"
+webNLG,['Barny_Cakes | dishVariation | Chocolate'],"['Barny Cakes can be chocolate flavoured.', 'Chocolate is one variation of the Barny Cakes dish.']"
+webNLG,['Barny_Cakes | protein | 1.8 g'],"['Barny cakes contain 1.8 g of protein.', 'Barny cakes contain 1.8g of protein.']"
+webNLG,['Batchoy | country | Philippines'],"['Batchoy is eaten in the Philippines.', 'Philippines is the country Batchoy comes from.']"
+webNLG,['Batchoy | ingredient | Chicken'],"['Chicken is an ingredient in Batchoy.', 'Batchoy includes chicken.']"
+webNLG,['Batchoy | ingredient | Vegetable'],"['Vegetable are used in the preparation of Batchoy.', 'Vegetables are an ingredient in Batchoy.']"
+webNLG,['Binignit | region | Visayas'],['Binignit is a dish from the region of Visayas.']
+webNLG,['Derbyshire_Dales | leaderName | Patrick_McLoughlin'],"['Patrick McLoughlin is a leader in the Derbyshire Dales.', 'Patrick McLoughlin is a leader in Derbyshire Dales.', 'Patrick McLoughlin is the leader of Derbyshire Dales.']"
+webNLG,['Dessert | dishVariation | Cake'],['A variation on dessert is cake.']
+webNLG,['Dessert | dishVariation | Ice_cream'],"['Ice cream is a type of dessert.', 'A type of dessert is an ice cream.', 'Ice cream is a dessert.']"
+webNLG,['Indonesia | leaderName | Jusuf_Kalla'],"['Jusuf Kalla is a leader in Indonesia.', 'Jusuf Kalla is the leader of Indonesia.']"
+webNLG,['Italy | demonym | Italians'],"['Italians are from Italy.', 'Italians is the name given to people from Italy.']"
+webNLG,['Java | ethnicGroup | Baduy'],"['Baduy is the ethnic group of Java.', 'The Baduy is an ethnic group in Java.', 'Baduy is an ethnic group of Java.']"
+webNLG,['Lemon | order | Rosids'],"['Lemon is under the order of Rosids.', 'the order of lemons is Rosids.']"
+webNLG,['Mexico | demonym | Mexicans'],"['Mexico is inhabited by Mexicans.', 'Mexicans are people from Mexico.']"
+webNLG,['Mexico | language | Spanish_language'],"['In Mexico, the spoken language is Spanish.', 'Spanish is the language spoken in Mexico.', 'The language of Mexico is Spanish.']"
+webNLG,['Philippines | language | Arabic'],"['One of the languages used in the Philippines is Arabic.', 'Arabic is a language spoken in the Philippines.', 'One of the languages in Philippines is Arabic.', 'Arabic is one of the languages spoken in the Philippines.']"
+webNLG,['Siomay | dishVariation | Shumai'],"['Shumai is a variation of the dish Siomay.', 'Siomay and Shumai are variations of the same dish.']"
+webNLG,['United_States | ethnicGroup | Native_Americans_in_the_United_States'],['Native Americans in the United States are one of the ethnic groups of the country.']

@@ -1,0 +1,14 @@
+prefix,input_text,target_text
+webNLG,['Asterix_(comicsCharacter) | creator | René_Goscinny'],"['Asterix was created by Rene Goscinny.', 'The creator of Asterix (comics character) is René Goscinny.', 'The comic character Asterix, was created by René Goscinny.']"
+webNLG,['Auron_(comicsCharacter) | creator | Marv_Wolfman'],"['The comic character Auron was created by Marv Wolfman.', 'Auron was created by Marv Wolfman.', 'The comic book character Auron was created by Marv Wolfman.']"
+webNLG,['Balder_(comicsCharacter) | creator | Jack_Kirby'],"['The comic character, Balder, was created by Jack Kirby.', 'The comic character Balder was created by Jack Kirby.', 'Jack Kirby created the comic character Balder.']"
+webNLG,"['Bananaman | broadcastedBy | ""STV""']","['Bananaman is broadcast by STV.', 'Bananaman is broadcasted by ""STV"".', 'Bananaman was broadcasted by STV.']"
+webNLG,"['Bananaman | firstAired | ""1983-10-03""']","['Bananaman first aired on 3rd October 1983.', 'Bananaman first aired on the 3rd of October, 1983.', 'Bananaman was first aired on 10/03/1983.']"
+webNLG,['Bananaman | starring | Bill_Oddie'],"['Bill Oddie stars in Bananaman.', 'Bananaman starred Bill Oddie.', 'Bill Oddie starred in Bananaman.']"
+webNLG,['Baymax | series | Big_Hero_6_(film)'],['Baymax is a character in Big Hero 6.']
+webNLG,['Bill_Everett | award | Eisner_Award'],"['Bill Everett has won the Eisner Award.', 'Bill Everett has been awarded the Eisner award.']"
+webNLG,['Bill_Oddie | child | Kate_Hardie'],"[""Bill Oddie's daughter is Kate Hardie."", ""Kate Hardie is Bill Oddie's child.""]"
+webNLG,['Bolt_(comicsCharacter) | creator | Dan_Mishkin'],"['Dan Mishkin is one of the creators of the comic character, Bolt.', 'The comic book character Bolt was created by Dan Mishkin.', 'The comic character Bolt was created by Dan Mishkin.']"
+webNLG,"['Bozo_the_Iron_Man | fullName | ""Hugh Hazzard""']","['Bozo the Iron Man’s full name is Hugh Hazzard.', 'The full name of Bozo the Iron Man is ""Hugh Hazzard"".', ""The comic book character Bozo the Iron Man's alter ego is Hugh Hazzard.""]"
+webNLG,['John_Buscema | award | Eagle_Award_(comics)'],"['John Buscema has won the comic book award, Eagle Award.', 'John Buscema received the Eagle Award for his work in comics.']"
+webNLG,['Marv_Wolfman | award | Eagle_Award_(comics)'],"['Marv Wolfman is a recipient of the Eagle Award.', 'Marv Wolfman won the Eagle Award for comics.', 'Marv Wolfman has received the Eagle Award for comics.']"

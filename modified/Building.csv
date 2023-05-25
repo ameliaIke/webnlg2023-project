@@ -1,0 +1,237 @@
+prefix,input_text,target_text
+webNLG,['103_Colmore_Row | architecturalStyle | Brutalist_architecture'],"['The architecture style of 103 Colmore Row falls under Brutalist architecture.', '103 Colmore Row is in the architectural style "" Brutalist architecture"".']"
+webNLG,"['103_Colmore_Row | buildingStartDate | ""1973""']","['1973 was the start date for the building at 103 Colmore Row.', 'The building of 103 Colmore Row began in 1973.', '103 Colmore Row opened in 1973.']"
+webNLG,['103_Colmore_Row | completionDate | 1976'],"['103 Colmore Row was completed in 1976.', 'The building of 103 Colmore Row was completed in 1976.']"
+webNLG,['103_Colmore_Row | floorCount | 23'],"['There are 23 floors at 103 Colmore Row.', '103 Colmore Row has 23 floors.']"
+webNLG,"['103_Colmore_Row | location | ""Colmore Row, Birmingham, England""']","['103 Colmore Row is located on Colmore Row, Birmingham, England.', '103 Colmore Row is located in Colmore Row, Birmingham, England.', '103 Colmore Row is in Birmingham, England.']"
+webNLG,['103_Colmore_Row | location | Birmingham'],['103 Colmore Row is located in Birmingham.']
+webNLG,['108_St_Georges_Terrace | buildingStartDate | 1981'],"['The construction of 108 St Georges Terrace began in 1981.', 'The building of 108 St. Georges Terrace was started in 1981.']"
+webNLG,['108_St_Georges_Terrace | completionDate | 1988'],['108 St Georges Terrace was completed in 1988.']
+webNLG,"['108_St_Georges_Terrace | cost | ""120 million (Australian dollars)""']","['108 St Georges Terrace cost 120 million Australian dollars.', '108 St Georges Terrance cost 120m Australian dollars.', 'The cost of 108 St. Georges Terrace is 120 million AUD.']"
+webNLG,['108_St_Georges_Terrace | floorArea | 39500.0 (square metres)'],['108 St. Georges Terrace has a floor area of 39599.0 square metres.']
+webNLG,['108_St_Georges_Terrace | floorCount | 50'],"['108 St Georges Terrace has a floor count of 50.', 'There are 50 floors at 108 St Georges Terrace.']"
+webNLG,['108_St_Georges_Terrace | location | Perth'],"['The 108 St. Georges Terrace is located in Perth.', '108 St. Georges Terrace is located in Perth.']"
+webNLG,['11_Diagonal_Street | architect | Helmut_Jahn'],['The architect of 11 Diagonal Street is Helmut Jahn.']
+webNLG,"['11_Diagonal_Street | buildingStartDate | ""1978""']","['The 11 Diagonal Street originated in 1978.', '11 Diagonal Street was built in 1978.', 'The building at 11 Diagonal Street was started to be erected in 1978.']"
+webNLG,['11_Diagonal_Street | floorArea | 1200 (square metres)'],['11 Diagonal Street has a floor area of 1200 square metres.']
+webNLG,['11_Diagonal_Street | floorCount | 20'],['11 Diagonal Street has 20 floors.']
+webNLG,['11_Diagonal_Street | location | Johannesburg'],"['11 Diagonal Street is in Johannesburg.', '11 Diagonal Street is located in Johannesburg.']"
+webNLG,['11_Diagonal_Street | owner | Redefine_Properties_Limited'],"['Redefine Properties Limited is the owner of 11 Diagonal Street.', '11 Diagonal Street is owned by Redefine Properties Limited.', 'Redefine Properties Limited is the owner of 11 Diagonal Strret.']"
+webNLG,['200_Public_Square | architect | HOK_(firm)'],"['The architect of 200 Public Square is HOK.', 'HOK (firm) were the architects of 200 Public Square.']"
+webNLG,['200_Public_Square | floorArea | 111484 (square metres)'],"['200 Public Square has a floor area of 111484 square metres.', '200 Public Square is 111484 square metres.']"
+webNLG,['200_Public_Square | floorCount | 45'],"['There are 45 floors at 200 Public Square.', '200 Public Square has a floor count of 45.']"
+webNLG,"['200_Public_Square | location | ""Cleveland, Ohio 44114""']","['200 Public Square is located in Cleveland, Ohio 44114.', '200 Public Square is located in Cleveland Ohio 44114.']"
+webNLG,"['200_Public_Square | location | ""United States""']",['200 Public Square is located in the United States.']
+webNLG,['200_Public_Square | location | Cleveland'],"['200 Public square is in Cleveland.', '200 Public Square is located in Cleveland.']"
+webNLG,"['200_Public_Square | location | Public_Square,_Cleveland']","['200 Public Square is located at Public Square, Cleveland.', '200 Public Square is located in Public Square, Cleveland.']"
+webNLG,['20_Fenchurch_Street | architect | Rafael_Viñoly'],"['20 Fenchurch Street was designed by the architect Rafael Viñoly.', 'Rafael Viñoly designed 20 Fenchurch Street.']"
+webNLG,"['20_Fenchurch_Street | completionDate | ""April 2014""']","['20 Fenchurch Street was completed in April of 2014.', '20 Fenchurch Street was completed in April 2014.']"
+webNLG,['20_Fenchurch_Street | floorArea | 62145.3 (square metres)'],['20 Fenchurch Street has a floor area of 62145.3 square metres.']
+webNLG,['20_Fenchurch_Street | floorCount | 34'],"['There are 34 floors at 20 Fenchurch Street.', '20 Fenchurch Street has a floor count of 34.']"
+webNLG,['20_Fenchurch_Street | location | London'],['20 Fenchurch Street is located in London.']
+webNLG,"['250_Delaware_Avenue | buildingStartDate | ""January, 2014""']","['The construction of 250 Delaware Avenue began in January 2014.', 'The start date of building 250 Delaware Avenue was January 2014.', 'January 2014 is the building start date of 250 Delaware Avenue.']"
+webNLG,"['250_Delaware_Avenue | cost | ""110 million (dollars)""']","['250 Delaware Avenue cost 110 million dollars.', 'The cost to build 250 Delaware Avenue is ""110 million (dollars)"".']"
+webNLG,['250_Delaware_Avenue | floorArea | 30843.8 (square metres)'],"['250 Delaware Avenue has a floor area of 30843.8 square metres.', '250 Delaware Avenue has a floor area of 30843.8 (square metres).', '250 Delawre Avenue has a floor area of 30843.8 square metres.']"
+webNLG,['250_Delaware_Avenue | floorCount | 12'],"['250 Delaware Avenue has 12 floors.', 'There are a total of 12 floors in 250 Delaware Avenue.', '250 Delaware Avenue has a floor count of 12.']"
+webNLG,"['250_Delaware_Avenue | location | Buffalo,_New_York']","['250 Delaware Avenue is a location in Buffalo, New York.', '250 Delaware Avenue is located in Buffalo, New York.', '250 Delaware Avenue is in Buffalo, New York.']"
+webNLG,['250_Delaware_Avenue | location | United_States'],['250 Delaware Avenue is located in the United States.']
+webNLG,['300_North_LaSalle | architect | Pickard_Chilton'],"['Pickard Chilton is the architect of 300 North LaSalle.', 'The architect of 300 North LaSalle is Pickard Chilton.', 'The architect of 300 North LaSalle was Pickard Chilton.']"
+webNLG,['300_North_LaSalle | completionDate | 2009'],"['300 North LaSalle was completed in 2009.', 'The building at 300 North LaSalle was completed in 2009.']"
+webNLG,['300_North_LaSalle | floorArea | 120770.0 (square metres)'],['The floor area of 300 North LaSalle is 120770.0 square metres.']
+webNLG,['300_North_LaSalle | location | Illinois'],['300 North LaSalle is in Illinois.']
+webNLG,['320_South_Boston_Building | completionDate | 1929'],"['The construction of 320 South Boston Building was completed in 1929.', '320 South Boston was completed in 1929.', '320 South Boston Building was completed in 1929.']"
+webNLG,['320_South_Boston_Building | floorCount | 22'],"['There are 22 floors in 320 South Boston Building.', 'The building at 320 South Boston Street has 22 floors.']"
+webNLG,"['320_South_Boston_Building | formerName | ""Exchange National Bank Building""']","['320 South Boston Building was formerly called the Exchange National Bank Building.', 'The previous name of 320 South Boston Building was the Exchange National Bank Building.']"
+webNLG,['320_South_Boston_Building | height | 121.92 (metres)'],"['The 320 South Boston Building is 121.92 metres.', 'The 320 South Boston Building has a height of 121.92 metres.', '320 South Boston Building is 121.92 metres in height.']"
+webNLG,['3Arena | architect | Populous_(company)'],"['The architect of 3Arena was the company Populous.', 'The company Populous were the architects who designed the 3Arena.']"
+webNLG,"['3Arena | buildingType | ""Concert and events venue""']","['The 3Arena is a concerts and events venue type building.', 'The 3Arena hosts concerts and events.']"
+webNLG,"['3Arena | completionDate | ""December 2008""']","['The completion date of 3Arena is December 2008.', 'The 3Arena was completed in December 2008.']"
+webNLG,['3Arena | height | 28.0 (metres)'],"['The height of 3 arena is 28 metres.', 'The height of 3Arena is 28.0 metres.', '3Arena is 28.0 metres high.']"
+webNLG,"['3Arena | location | ""North Wall Quay""']","['The 3Arena is located at the North Wall Quay.', 'The 3Arena is located on North Wall Quay.', 'The 3Arena is located at ""North Wall Quay."".']"
+webNLG,['3Arena | location | Dublin'],"['The 3Arena is located in Dublin.', '3 Arena is located in Dublin.', '3Arena is located in Dublin.']"
+webNLG,"['3Arena | location | North_Wall,_Dublin']","['3Arena is located at North Wall, Dublin.', 'The 3Arena is located at North Wall, Dublin.']"
+webNLG,['3Arena | owner | Live_Nation_Entertainment'],"['The owner of 3Arena is Live Nation Entertainment.', '3Arena is owned by Live Nation Entertainment.']"
+webNLG,['AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN'],"['3XN was the architect of the AC Hotel Bella Sky Copenhagen.', 'The AC Hotel Bella Sky in Copenhagen was designed by the architects of the 3XN firm.', 'The architect of the AC Hotel Bella Sky, Copenhagen was 3XN.']"
+webNLG,['AC_Hotel_Bella_Sky_Copenhagen | developer | Bella_Center'],"['The AC Hotel Bella Sky, Copenhagen was developed by the Bella Center.', 'The developer of the AC Hotel Bella Sky in Copenhagen is Bella Center.', 'Bella Center were developers of AC Hotel Bella Sky Copenhagen.']"
+webNLG,['AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23'],"['The AC Hotel Bella Sky Copenhagen has 23 floors.', 'There are 23 floors in the AC Hotel Bella Sky Copenhagen.', 'The Bella Sky hotel in Copenhagen has 23 floors.']"
+webNLG,['AC_Hotel_Bella_Sky_Copenhagen | location | Copenhagen'],"['The AC Hotel Bella Sky is in Copenhagen.', 'AC Hotel Bella Sky Copenhagen is located in Copenhagen.', 'The AC Hotel , Bella Sky is located in Copenhagen.']"
+webNLG,['AC_Hotel_Bella_Sky_Copenhagen | location | Denmark'],"['AC Hotel Bella Sky is in Copenhagen, Denmark.', 'AC Hotel Bella Sky Copenhagen is located in Denmark.']"
+webNLG,['AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center'],"['AC Hotel Bella Sky Copenhagen is owned by Bella Center.', 'The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.']"
+webNLG,['AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International'],"['Marriott International is the tenant of AC Hotel Bella Sky Copenhagen.', 'The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International.', 'The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel.']"
+webNLG,['Adare | isPartOf | Munster'],['Adare is part of Munster.']
+webNLG,['Adare_Manor | architect | Augustus_Pugin'],['The architect of Adare Manor is Augustus Pugin.']
+webNLG,['Adare_Manor | architect | George_Richard_Pain'],"['The architect of Adare Manor is George Richard Pain.', ""Adare Manor's architect was George Richard Pain."", 'The architect of Adare Manor was George Richard Pain.']"
+webNLG,['Adare_Manor | architect | James_Pain'],"['The architect of Adare Manor was James Pain.', 'James Pain was the architect of the Adare Manor.']"
+webNLG,['Adare_Manor | architect | Lewis_Nockalls_Cottingham'],"['Adare Manor was designed by the architect Lewis Nockalls Cottingham.', 'Lewis Nockalls Cottingham is the architect of Adare Manor.', 'Lewis Cottingham is the architect of Adare Manor.']"
+webNLG,['Adare_Manor | architect | Philip_Charles_Hardwick'],"['Philip Charles Hardwick was the architect of Adare Manor.', ""Adare Manor's architect was Philip Charles Hardwick."", 'The architect responsible for Adare Manor was Philip Charles Hardwick.']"
+webNLG,['Adare_Manor | completionDate | 1862'],"['The construction of Adare Manor was completed in 1862.', 'Adare Manor was completed in 1862.', 'The completion date of Adare Manor is 1862.']"
+webNLG,['Adare_Manor | location | Adare'],['Adare Manor is located in Adare.']
+webNLG,['Adare_Manor | location | County_Limerick'],"['Adare Manor is located in County Limerick.', 'Adare Manor can be found in County Limerick.']"
+webNLG,['Adare_Manor | owner | J._P._McManus'],"['J P McManus is the owner of Adare Manor.', 'J.P. McManus is the owner of Adare Manor.', 'JP McManus owns Adare Manor.']"
+webNLG,['Addis_Ababa | country | Ethiopia'],"['Addis Ababa is located in Ethiopia.', 'Addis Ababa is in Ethiopia.']"
+webNLG,['Addis_Ababa | isPartOf | Addis_Ababa_Stadium'],"['Addis Ababa Stadium is part of Addid Ababa.', 'Addis Ababa Stadium is situated in Addis Ababa.', 'The Addis Ababa Stadium is part of Addis Ababa.']"
+webNLG,['Addis_Ababa_City_Hall | buildingStartDate | 1961'],"['Building started on the Addis Ababa City Hall in 1961.', 'The start date for building Addis Ababa City Hall was 1961.', 'They started to build Addis Ababa City Hall in 1961.']"
+webNLG,['Addis_Ababa_City_Hall | buildingType | Seat_of_local_government'],"['The Addis Ababa City Hall is the seat of the local government.', 'Addis Ababa City Hall is the seat of Local Government.']"
+webNLG,['Addis_Ababa_City_Hall | completionDate | 1964'],"['Addid Ababa City Hall was completed in 1964.', ""Addis Ababa City Hall's completion date was in 1964."", 'Addis Ababa City Hall was completed in 1964.']"
+webNLG,['Addis_Ababa_City_Hall | country | Ethiopia'],"['Addis Ababa City Hall is located in the country of Ethiopia.', 'The Addis Ababa City Hall is in the country of Ethiopia.', 'Addis Ababa City Hall is in Ethiopia.']"
+webNLG,"['Addis_Ababa_City_Hall | currentTenants | ""Government of Addis Ababa""']","['The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall.', 'The Government of Addis Ababa is the current tenants of the Addis Ababa city hall.', 'The "" Government of Addis Ababa"" are the current tenants of Addis Ababa City Hall.']"
+webNLG,['Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)'],"['The floor area of Addis Ababa City Hall is 140000.0 (square metres).', 'Addis Ababa City Hall has a 140000.0 (square metres) floor area.', 'Addis Ababa City Hall has a floor area of 140000.0 square metres.']"
+webNLG,"['Addis_Ababa_City_Hall | height | ""42 m""']","['Addis Ababa City Hall has a height of 42 metres.', 'Addis Ababa City Hall is 42 m high.']"
+webNLG,['Addis_Ababa_City_Hall | location | Addis_Ababa'],['Addis Ababa City Hall is located in Addis Ababa.']
+webNLG,"['Adisham_Hall | address | ""St. Benedict\'s Monastery, Adisham, Haputhale, Sri Lanka""']","[""Adisham Hall is located on St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka."", 'The address of Adisham Hall is St. Benedicts Monastery,Adisham,Haputhale,Sri Lanka.', ""The address of Adisham Hall is, St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.""]"
+webNLG,"['Adisham_Hall | architecturalStyle | ""Tudor and Jacabian""']","['Adisham Halls Architectural style`is Tudor and Jacabian.', 'The architecture style of Adisham Hall is Tudor and Jacabian.', 'Adisham Hall is in the architectural style of ""Tudor and Jacobean"".']"
+webNLG,['Adisham_Hall | architecturalStyle | Tudor_Revival_architecture'],"['Adisham Hall has the Tudor Revival architectural style.', ""Adisham Hall has the architectural style 'Tudor Revival'."", ""The Adisham Hall's style of architecture is Tudor Revival.""]"
+webNLG,"['Adisham_Hall | buildingStartDate | ""1927""']","['Construction of Adisham Hall began in 1927.', 'Adisham Hall was begun to be built in 1927.']"
+webNLG,['Adisham_Hall | completionDate | 1931'],"['Adisham Hall was completed in 1931.', 'The construction of Adisham Hall was completed in 1931.', 'Adisham Hall was finished in 1931.']"
+webNLG,['Adisham_Hall | country | Sri_Lanka'],"['Adisham Hall is located in Sri Lanka.', 'Adisham Hall is located in the country of Sri Lanka.', 'Adisham Hall is in Sri Lanka.']"
+webNLG,"['Adisham_Hall | location | ""Haputale, Sri Lanka""']","['Admisham Hall is located at Haputale, Sri Lanka.', 'Adisham Hall is located in Haputale, Sri Lanka.', 'Adisham Hall is in Haputale, Sri Lanka.']"
+webNLG,['Adisham_Hall | location | Sri_Lanka'],"['Adisham Hall is located in Sri Lanka.', 'Adisham Hall is in Sri Lanka.', 'Aidsham Hall is located in Sri Lanka.']"
+webNLG,['Ahmedabad | country | India'],"['Ahmedabad is in India.', 'Ahmedabad is located in India.']"
+webNLG,"['Akita,_Akita | country | Japan']","['Akita Akita is found in the country of Japan.', 'Akita is located in Japan.']"
+webNLG,"['Akita,_Akita | isPartOf | Akita_Prefecture']","['Akita, Akita is part of Akita Prefecture.']"
+webNLG,"['Akita_Museum_of_Art | address | ""1-4-2 Nakadori""']","['The address of Akita Museum of Art is ""1-4-2 Nakadori"".', 'The address of Akita Musuem of Art is 142 Nakadori.']"
+webNLG,['Akita_Museum_of_Art | architect | Tadao_Ando'],"['Tadao Ando is the architect who designed the Akita Museum of Art.', 'Tadao Ando is the architect of the Akita Museum of Art.', 'Tadao Ando is the architect of Akita Museum.']"
+webNLG,['Akita_Museum_of_Art | floorArea | 3746.66 (square metres)'],"['The Akita Museum of Art has a floor area of 3746.66 (square metres).', 'The floor area of the Akita Museum of Art is 3746.66 square metres.', 'The Akita Museum of Art has a floor area of 3746.66 square metres.']"
+webNLG,['Akita_Museum_of_Art | floorCount | 3'],"['The Akita Museum of Art has 3 floors.', 'The Akita Museum of Art 3 floors.']"
+webNLG,"['Akita_Museum_of_Art | location | Akita,_Akita']","['Akita Museum of Art is an art museum in the city of Akita.', 'Akita Museum of Art is located in Akita, Akita.', 'The Akita Museum of Art is located in Akita, Akita.']"
+webNLG,['Akita_Museum_of_Art | location | Akita_Prefecture'],"['Akita Museum of Art is located in Akita Prefecture.', 'The Akita Museum of Art is located in Akita Prefecture.']"
+webNLG,['Akita_Prefecture | country | Japan'],"['The Akita Prefecture is located in Japan.', 'The Akita Prefecture is part of the country of Japan.', 'Akita Prefecture is located in Japan.']"
+webNLG,"['Alan_B._Miller_Hall | address | ""101 Ukrop Way""']","['The address of Alan B. Miller Hall is ""101 Ukrop Way"".', 'The address of Alan B. Miller Hall is 101 Ukrop Way.']"
+webNLG,['Alan_B._Miller_Hall | architect | Robert_A._M._Stern'],"['Robert A.M. Stern is the architect for Alan B. Miller Hall.', 'The architect of Alan B Miller Hall is Robert A M Stern.', 'Alan B. Miller Hall was designed by Robert A.M. Stern.']"
+webNLG,['Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture'],"['The architectural style of the Alan B. Miller Hall is Georgian.', 'The architectural style of the Alan B Miller Hall is Georgian.', 'Alan B Miller Hall was built in the Georgian architecture style.']"
+webNLG,"['Alan_B._Miller_Hall | buildingStartDate | ""30 March 2007""']","[""Alan B. Miller Hall's building start date was in 30th March 2007."", 'They started to build Alan B Miller Hall on 30 March, 2007.']"
+webNLG,"['Alan_B._Miller_Hall | completionDate | ""1 June 2009""']","['Alan B. Miller Hall was completed on June 1st, 2009.', 'Alan B. Miller Hall was completed on ""1 June 2009"".', 'The Alan B. Millar Hall was completed on 1st June 2009.']"
+webNLG,"['Alan_B._Miller_Hall | cost | ""75.0 million (dollars)""']","['The Alan B Miller Hall cost 75 million dollars.', 'Alan B. Miller Hall cost 75 million dollars.']"
+webNLG,"['Alan_B._Miller_Hall | inaugurationDate | ""2009-10-02""']","['Alan B. Miller Hall was in augurated on 2009-10-02.', 'Alan B. Miller Hall was inaugurated on ""2009-10-02"".', 'The inauguration date of the Alan B. Miller Hall was 2nd October, 2009.']"
+webNLG,['Alan_B._Miller_Hall | location | Virginia'],"['Alan B Miller Hall is located in Virginia.', 'Alan B. Miller Hall is situated in Virginia.']"
+webNLG,"['Alan_B._Miller_Hall | location | Williamsburg,_Virginia']","['The Alan B. Miller Hall is in Williamsburg, Virginia.', ""The Alan B Miller Hall's location is Williamsburg, Virginia."", 'The Alan B Miller Hall is located in Williamsburg, Virginia.']"
+webNLG,['Alan_B._Miller_Hall | tenant | Mason_School_of_Business'],['Mason School of Business is a tenant of the Alan B. Miller Hall.']
+webNLG,['Alfred_Giles_(architect) | birthPlace | England'],"['The architect Alfred Giles was born in England.', 'Architect, Alfred Giles was born in England.']"
+webNLG,"['Alfred_Giles_(architect) | placeOfDeath | Kendall_County,_Texas']","['The architect Alfred Giles died in Kendall County, Texas.', 'The architect Alfred Giles died in Kendall County Texas.']"
+webNLG,['Amdavad_ni_Gufa | completionDate | 1995'],['Amdavad ni Gufa was completed in 1995.']
+webNLG,['Amdavad_ni_Gufa | country | India'],['Amdavad ni Gufa is located in India.']
+webNLG,['Amdavad_ni_Gufa | location | Ahmedabad'],"['The location of Amdavad ni Gufa is Ahmedabad.', 'Amdavad ni Gufa is located in Ahmedabad.']"
+webNLG,['Amdavad_ni_Gufa | location | Gujarat'],['Amdavad ni Gufa is located in Gujarat.']
+webNLG,['Ampara_Hospital | bedCount | 476'],"['The bed count of Ampara Hospital is 476.', 'Ampara Hospital has 476 beds.']"
+webNLG,['Ampara_Hospital | location | Ampara'],"['The Ampara Hospital is in Ampara.', 'Ampara Hospital is located in Ampara.']"
+webNLG,['Ampara_Hospital | region | Ampara_District'],"['Ampara Hospital is located in the region of Ampara District.', 'Ampara hospital is located in Ampara district.']"
+webNLG,"['Ampara_Hospital | state | Eastern_Province,_Sri_Lanka']","['Ampara Hospital is in Eastern Province, Sri Lanka.', 'Ampara Hopsital is in the Eastern Province, Sri Lanka.', 'The Ampara Hospital is situated in the Eastern Province state of Sri Lanka.']"
+webNLG,['Ampara_Hospital | website | <http://www.ghampara.gov.lk/>'],['Ampara Hospital has a website.']
+webNLG,['Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)'],"['Alfred Giles was the architect of Asher and Mary Isabelle Richardson House.', 'Asher and Mary Isabelle Richardson House was designed by architect Alfred Giles.', 'The architect of Asher and Mary Isabelle Richardson House was Alfred Giles.']"
+webNLG,"['Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas']","['Asher and Mary Isabelle Richardson House is located in Asherton, Texas.']"
+webNLG,['Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83'],"['Asher and Mary Isabelle Richardson House is located at U.S. Route 83.', 'The Asher and Mary Isabelle Richardson House is located on U.S. Route 83.']"
+webNLG,['Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911'],"['Asher and Mary Isabelle Richardson House was built in 1911.', 'Asher and Mary Isabelle Richardson House was constructed in 1911.']"
+webNLG,"['Asherton,_Texas | country | United_States']","['Asherton Texas is in the United States.', 'Asherton is situated in Texas,United States.', 'Asherton , Texas is in the country of the United States.']"
+webNLG,"['Asherton,_Texas | isPartOf | Dimmit_County,_Texas']","['Asherton, Texas is part of Dimmit County, Texas.', 'Asherton is part of Dimmit County, Texas.']"
+webNLG,"['Asherton,_Texas | isPartOf | United_States']","['Asherton, Texas is part of the United States.']"
+webNLG,"['Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | ""87000823""']","['Asilomar Conference Grounds has the reference number 87000823 in the National Register of Historic Places.', 'The reference number in the the National Register of Historic Places for Asilomar Conference Grounds is 87000823.', '""87000823"" is Asilomar Conference Grounds\' reference number in the National Register of Historic Places.']"
+webNLG,"['Asilomar_Conference_Grounds | added to the National Register of Historic Places | ""1987-02-27""']","['The Asilomar Conference Grounds were added to the National Register of Historic Places on 27 February 1987.', 'Asilomar Conference Grounds was added to the National Register of Historic Places on February the 27nd 1987.']"
+webNLG,['Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman'],['The Asilomar Conference Grounds have the architectural style of American Craftsman.']
+webNLG,['Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement'],"['Asilomar Conference Grounds has the architectural style of the Arts and Crafts Movement.', 'The Asilomar Conference Grounds has an Arts and Crafts movement style architecture.', 'The Asilomar Conference Grounds are in the architectural style of the Arts and Crafts Movement.']"
+webNLG,"['Asilomar_Conference_Grounds | location | ""Asilomar Blvd., Pacific Grove, California""']","['Asilomar Conference Grouns is located at Asilomar Blvd., Pacific Grove, California.', 'Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California.', 'The location of Asilomar Conference Grounds is Asilomar Blvd., Pacific Grove, California.']"
+webNLG,"['Asilomar_Conference_Grounds | location | Pacific_Grove,_California']","['The Asilomar Conference Grounds is located at Pacific Grove, California.', 'Asilomar Conference Grounds are located in Pacific Grove, California.']"
+webNLG,"['Asser_Levy_Public_Baths | ReferenceNumber in the National Register of Historic Places | ""80002709""']","['Asser Levy Public Baths has the reference number 80002709 in the National Register of Historic Places.', 'The Reference Number in the National Register of Historic Places of Asser Levy Public Baths is 80002709.', ""Asser Levy Public Baths' reference number is 80002709 in the National Register of Historic Places.""]"
+webNLG,"['Asser_Levy_Public_Baths | added to the National Register of Historic Places | ""1980-04-23""']","['Asser Levy Public Baths was added to the National Register of Historic Places on 1980-04-23.', 'Asser Levy Public Baths was added to the National Register of Historic Places on ""1980-04-23"".', 'Asser Levy Public Baths was added to the National Register of Historic Places on 23rd April 1980.']"
+webNLG,['Asser_Levy_Public_Baths | architecturalStyle | Romanesque_Revival_architecture'],"['The Asser Levy Public Baths have the Romanesque Revival style of architecture.', 'The Asser Levy Public Baths architectural style is that of Romanesque Revival.', 'The Asser Levy Public Baths are in the architectural sytle of Romanesque Revival architecture.']"
+webNLG,"['Asser_Levy_Public_Baths | location | ""Asser Levy Place and East 23rd Street""']","['The Asser Levy Public Baths is in Asser Levy Place and East 23rd Street.', 'Asser Levy Public Baths are located on Asser Levy Place and East 23rd Street.', 'The Asser Levy Public Baths are located in Asser Levy Place , East 23rd Street.']"
+webNLG,['Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)'],"['Asser Levy Public Baths is located at 23rd Street (Manhattan).', 'Asser Levy Public Baths is located on 23rd Street, Manhattan.']"
+webNLG,['Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)'],"['Asser Levy Public Baths is located in Avenue A, Manhattan.']"
+webNLG,['Asser_Levy_Public_Baths | location | Manhattan'],['Asser Levy Public Baths is located in Manhattan.']
+webNLG,['Augustus_Pugin | birthPlace | Bloomsbury'],"['The birth place of Augustus Pugin is Bloomsbury.', ""Augustus Pugin's birthplace is Bloomsbury.""]"
+webNLG,['Augustus_Pugin | significantBuilding | Palace_of_Westminster'],['One of the significant buildings designed by Augustus Pugin is the Palace Of Westminster.']
+webNLG,['Birmingham | governingBody | Birmingham_City_Council'],"[""Birmingham's governing body is Birmingham City Council."", 'The Birmingham City Council is the governing body of Birmingham.', 'The governing body of Birmingham is Birmingham City Council.']"
+webNLG,['Birmingham | leaderName | Andrew_Mitchell'],"['Andrew Mitchell is the leader of Birmingham.', ""Birmingham's leader is Andrew Mitchell.""]"
+webNLG,['Birmingham | leaderName | Conservative_Party_(UK)'],['The leader of Birmingham is the Conservative Party (UK).']
+webNLG,['Birmingham | leaderName | John_Clancy_(Labour_politician)'],"['Labour politician, John Clancy is the leader of Birmingham.']"
+webNLG,['Birmingham | leaderName | Khalid_Mahmood_(British_politician)'],['Khalid Mahmood (British politician) is one of the leaders of Birmingham.']
+webNLG,['Birmingham | leaderName | Labour_Party_(UK)'],"['Birmingham Council is lead by the Labour Party (UK).', 'The Labour Party leads Birmingham.']"
+webNLG,['Birmingham | leaderName | Liberal_Democrats'],"['The Liberal Democrats are the leaders of Birmingham.', 'The leader of Birmingham are the Liberal Democrats.', 'Liberal Democrats are leaders of Birmingham.']"
+webNLG,"['Buffalo,_New_York | isPartOf | New_York']",['Buffalo New York is part of New York.']
+webNLG,['Chicago | country | United_States'],"['Chicago is located in the United States.', 'Chicago is located in the U.S.', 'Chicago is in the United States.']"
+webNLG,"['Chicago | isPartOf | Cook_County,_Illinois']","['Chicago is part of Cook County, Illinois.', 'Chicago is in Cook County, Illinois.']"
+webNLG,['Chicago | isPartOf | Illinois'],"['Chicago is part of Illinois.', 'Chicago is part of the State of Illinois.', 'the city of Chicago is part of the state of Illinois.']"
+webNLG,['Chicago | leaderName | Rahm_Emanuel'],"['Rahm Emanuel is a leader in Chicago.', ""Chicago's leader is called Rahm Emanuel."", 'Rahm Emanuel is the leader of Chicago.']"
+webNLG,['Chicago | leaderName | Susana_Mendoza'],"['Susana Mendoza is the leader of Chicago.', 'The leader of Chicago is Susana Mendoza.', 'Susana Mendoza is a leader in Chicago.']"
+webNLG,['Cleveland | country | United_States'],"['Cleveland is located in the United States.', 'Cleveland is in the United States.']"
+webNLG,['Cleveland | governingBody | Cleveland_City_Council'],"[""Cleveland's governing body is Cleveland City Council."", 'The Cleveland City Council is the governing body of Cleveland.', 'The governing body of Cleveland is Cleveland City Council.']"
+webNLG,"['Cleveland | isPartOf | Cuyahoga_County,_Ohio']","['Cleveland is part of Cuyahoga County, Ohio.', 'Cleveland is part of the Cuyahoga County in Ohio.']"
+webNLG,['Cleveland | isPartOf | Ohio'],"['Cleveland is located within Ohio,.', 'Cleveland is part of Ohio.']"
+webNLG,['Cleveland | leaderName | Frank_G._Jackson'],"['Frank G Jackson is a leader in Cleveland.', 'the leader in Cleveland is Frank G Jackson.']"
+webNLG,['College_of_William_&_Mary | chancellor | Robert_Gates'],"['Robert Gates is the chancellor of the College of William & Mary.', 'The Chancellor of the College of William and Mary is Robert Gates.', 'Robert Gates served as chancellor of the College of William and Mary.']"
+webNLG,['County_Limerick | governmentType | Limerick_City_and_County_Council'],"['County Limerick is governed by the Limerick City and County Council.', 'Limerick City and County Council governs County Limerick.']"
+webNLG,['Denmark | capital | Copenhagen'],"['Copenhagen is the capital of Denmark.', 'The capital of Denmark is Copenhagen.']"
+webNLG,['Denmark | language | Faroese_language'],"['The Faroese Language is spoken in Denmark.', 'The language Faroese is spoken in Denmark.']"
+webNLG,['Denmark | language | German_language'],"['One of the languages in Denmark is the German.', 'One of the languages used in Denmark is the German language.']"
+webNLG,['Denmark | language | Greenlandic_language'],['Greenlandic is one of the languages of Denmark.']
+webNLG,['Denmark | leaderName | Lars_Løkke_Rasmussen'],"[""Lars Lokke Rasmussen is Denmark's leader."", 'The leader of Denmark is Lars Løkke Rasmussen.', 'Lars Løkke Rasmussen is the prime minister of Denmark.']"
+webNLG,['Denmark | leaderName | Margrethe_II_of_Denmark'],"['Margrethe II of Denmark is the leader of Denmark.', ""Margrethe II of Denmark is the name of Denmark's leader.""]"
+webNLG,['Dublin | isPartOf | Republic_of_Ireland'],"['Dublin is part of the Republic of Ireland.', 'Dublin is a part of the Republic of Ireland.']"
+webNLG,['Dublin | leaderTitle | Dáil_Éireann'],['Dáil Éireann is a leader in Dublin.']
+webNLG,['Dublin | leaderTitle | European_Parliament'],"['Dublin is lead by the European Parliament.', 'European Parliament is the title of the leader of Dublin.', 'The leader of the government in Dublin is the European Parliament.']"
+webNLG,"['Eastern_Province,_Sri_Lanka | governingBody | Eastern_Provincial_Council']","['The governing body of the Eastern Province Sri Lanka is the Eastern Provincial Council.', 'Eastern Provincial Council is the governing body of Eastern Province in Sri Lanka.', 'The Eastern Provincial Council is the governing body of Eastern Province, Sri Lanka.']"
+webNLG,"['Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando']","['The leader of the Eastern Province, Sri Lanka is Austin Fernando.', 'Austin Fernando is the leader of the Eastern Province of Sri Lanka.', 'Austin Fernando is the name of the leader in the Eastern Province of Sri Lanka.']"
+webNLG,['Ethiopia | currency | Ethiopian_birr'],"[""Ethiopia's currency is the Ethiopian Birr."", 'The Ethiopian birr is the money used in Ethiopia.', 'The currency of Ethiopia is the Ethiopian birr.']"
+webNLG,['Ethiopia | language | Amharic'],"['Amharic is a language found in Ethiopia.', 'The language spoken in Ethiopia is Amharic.', 'Amharic is the language of Ethiopia.']"
+webNLG,['Ethiopia | leaderName | Hailemariam_Desalegn'],"['The leader of Ethiopia is Hailemariam Desalegn.', 'Hailemariam Desalegn is the leader of Ethiopia.']"
+webNLG,['George_Winkler | country | United_States'],"['George Winkler is from the United States.', 'George Winkler is from the United States of America.']"
+webNLG,['Gujarat | leaderName | Anandiben_Patel'],"['Anandiben Patel is the leader of Gujarat.', 'Anandiben Patel was the leader of Gujurat.']"
+webNLG,['Gujarat | leaderTitle | Gujarat_Legislative_Assembly'],"[""Gujarat's leader is known as the Gujarat Legislative Assembly.""]"
+webNLG,"['Illinois | capital | Springfield,_Illinois']","['The capital of Illinois is Springfield, Illinois.', 'The capital of Illinois is Springfield.']"
+webNLG,['Illinois | country | United_States'],"['Illinois is in the United States.', 'Illinois state is in the United States.', 'Illinois is situated in the United States.']"
+webNLG,['Illinois | language | English_language'],"['The English language is spoken in Illinois.', 'The language of Illinois is the English language.']"
+webNLG,['India | leaderName | Narendra_Modi'],"['Narendra Modi leads India.', 'The leader of India is Narendra Modi.', 'Narendra Modi is the prime minister of India.']"
+webNLG,['India | leaderName | T._S._Thakur'],"['T S Thakur is a leader in India.', 'The leader of India is called T S Thakur.', 'T. S. Thakur was an Indian leader.']"
+webNLG,['Japan | ethnicGroup | Chinese_people_in_Japan'],"['There is an ethnic group of Chinese people in Japan.', 'In Japan there is an ethnic group of Chinese people.']"
+webNLG,['Japan | ethnicGroup | Filipinos_in_Japan'],['One of the ethnic groups in Japan is the Filipinos.']
+webNLG,['Japan | ethnicGroup | Japanese_people'],['The main ethnic group in Japan is the Japanese.']
+webNLG,['Japan | ethnicGroup | Koreans_in_Japan'],"['Japan has an ethnic group called Koreans in Japan.', 'Japan has an ethnic group of Koreans.']"
+webNLG,['Japan | ethnicGroup | Vietnamese_people_in_Japan'],"['There is an ethnic group of Vietnamese people in Japan.', 'Vietnamese people in Japan are an ethnic group from Japan.']"
+webNLG,['Japan | leaderName | Akihito'],"['The leader of Japan is called Akihito.', 'The leader of Japan is Akihito.', 'The Emperor of Japan is Akihito.']"
+webNLG,['Japan | leaderName | Shinzō_Abe'],"['The leader of Japan is Shinzō Abe.', 'Shinzo Abe is the leader of Japan.']"
+webNLG,['John_Madin | birthPlace | Birmingham'],['John Madin was born in Birmingham.']
+webNLG,['John_Madin | hometown | Birmingham'],"['Birmingham is the home town of John Madin.', 'The hometown of Joh Madin is Birmingham.']"
+webNLG,['Julia_Morgan | birthPlace | California'],"['The birth place of Julia Morgan is California.', 'Julia Morgan was born in California.']"
+webNLG,['Julia_Morgan | birthPlace | San_Francisco'],['Julia Morgan was born in San Francisco.']
+webNLG,['Julia_Morgan | significantBuilding | Asilomar_State_Beach'],['One of the significant buildings designed by Julia Morgan is the Asilomar State Beach.']
+webNLG,"['Julia_Morgan | significantBuilding | Chinatown,_San_Francisco']","['Julie Morgan designed significant buildings in Chinatown, San Francisco.', 'Julia Morgan is the architect behind Chinatown in San Francisco.']"
+webNLG,['Julia_Morgan | significantBuilding | Riverside_Art_Museum'],"[""The Riverside Art Musuem is one of Julia Morgan's significant buildings.""]"
+webNLG,['Julia_Morgan | significantProject | Hearst_Castle'],"['Hearst Castle was a significant project of Julia Morgan.', 'Julia Morgan was the architect of the landmark Hearst Castle.', 'Hearst Castle was a significant project for Julia Morgan.']"
+webNLG,['London | leaderName | Boris_Johnson'],"['Boris Johnson is the leader in London.', 'The leader of London is called Boris Johnson.']"
+webNLG,['London | leaderTitle | European_Parliament'],['London is lead via the European Parliament.']
+webNLG,['London | leaderTitle | Parliament_of_the_United_Kingdom'],['The Parliament of the United Kingdom is the leader of London.']
+webNLG,"['Manhattan | leaderName | Cyrus_Vance,_Jr.']","['The leader of Manhattan is Cyrus Vance Jr.', 'Cyrus Vance Jr. is one of the leaders of Manhattan.']"
+webNLG,['Manhattan | leaderName | Gale_Brewer'],"['The leader of Manhattan is Gale Brewer.', 'Gale Brewer is the leader of Manhattan.']"
+webNLG,"['Marriott_International | foundationPlace | Washington,_D.C.']","['Marriott International was founded in Washington, D.C.']"
+webNLG,"['Marriott_International | location | Bethesda,_Maryland']","['Marriott International is based in Bethesda, Maryland.', 'Marriott International is located in Bethesda Maryland.', 'The Marriott International is located in Bethseda, Maryland.']"
+webNLG,['Mason_School_of_Business | country | United_States'],['The Mason School of Business is located in the United States.']
+webNLG,['New_York_City | country | United_States'],"['New York city is located in the U.S.', 'New York City is in the United States.', 'New York City is located in the United States.']"
+webNLG,['New_York_City | isPartOf | Brooklyn'],"['Brooklyn is part of New York City.', 'Brooklyn is a part of New York City.']"
+webNLG,['New_York_City | isPartOf | Manhattan'],"['Manhattan is part of New York City.', 'New York City is part of Manhattan.']"
+webNLG,['New_York_City | isPartOf | New_York'],['New York City is part of New York.']
+webNLG,"['Pacific_Grove,_California | country | United_States']","['Pacific Grove, California is in the United States.', 'Pacific Grove, California is located in the United States.']"
+webNLG,['Perth | country | Australia'],"['Perth is located in Australia.', 'Perth is in Australia.']"
+webNLG,['Republic_of_Ireland | currency | Euro'],"['The currency of the Republic of Ireland is the euro.', ""The Republic of Ireland's currency is the Euro.""]"
+webNLG,['Republic_of_Ireland | demonym | Irish_people'],"['Irish people are the inhabitants of the Republic of Ireland.', 'Irish people inhabit the Republic of Ireland.', 'The demonym of natives of the Republic of Ireland is Irish people.']"
+webNLG,['Republic_of_Ireland | language | Irish_language'],"['In the Republic of Ireland they speak Irish.', 'Irish is one of the official language in the Republic of Ireland.', 'Irish is the official language of the Republic of Ireland.']"
+webNLG,['Republic_of_Ireland | leaderName | Enda_Kenny'],['The leader of the Republic of Ireland is Enda Kenny.']
+webNLG,['South_Africa | demonym | South_Africa'],['People from South Africa can say they are from South Africa.']
+webNLG,['South_Africa | ethnicGroup | Asian_South_Africans'],"['In South Africa there is an ethnic group of Asian South Africans.', 'One of the ethnic groups within South Africa is Asian South Africans.']"
+webNLG,['South_Africa | ethnicGroup | Coloured'],"[""One of South Africa's ethnic groups are the Coloured."", 'Coloured people are an ethnic group in South Africa.']"
+webNLG,['South_Africa | leaderName | Cyril_Ramaphosa'],"['Cyril Ramaphosa is the leader of South Africa.', 'Cyril Ramaphosa is one of the leaders of South Africa.', 'The leader of South Africa is called Cyril Ramaphosa.']"
+webNLG,['South_Africa | leaderName | Jacob_Zuma'],"[""South Africa's leader is called Jacob Zuma."", 'The leader of South Africa is Jacob Zuma.', 'Jacob Zuma is a leader in South Africa.']"
+webNLG,['Sri_Lanka | capital | Sri_Jayawardenepura_Kotte'],"['The capital of Sri Lanka is Sri Jayawardenepura Kotte.', 'Sri Jayawardenepura Kotte is the capital of Sri Lanka.']"
+webNLG,['Sri_Lanka | currency | Sri_Lankan_rupee'],"[""Ski Lanka's currency is the Ski Lankan rupee."", 'The currency of Sri Lanka is the Sri Lankan rupee.']"
+webNLG,['Sri_Lanka | language | Tamil_language'],['The language of Sri Lanka is the Tamil language.']
+webNLG,['Sri_Lanka | leaderName | Ranil_Wickremesinghe'],"['Ranil Wickremesinghe is a leader of Sri Lanka.', ""Sri Lanka's leader is called Ranil Wickremesinghe."", 'The leader of Sri Lanka is Ranil Wickremesinghe.']"
+webNLG,['United_Kingdom | currency | Pound_sterling'],"[""The United Kingdom's currency is Pound sterling."", 'The currency of the United Kingdom is the Pound sterling.']"
+webNLG,['United_Kingdom | demonym | British_people'],['The demonym for natives of the United kingdom is British people.']
+webNLG,"['United_States | capital | Washington,_D.C.']","['Washington DC is the capital of the United States.', 'The capital of the United States is Washington D.C.', 'Washington D.C. is the capital of the USA.']"
+webNLG,['United_States | ethnicGroup | African_Americans'],['One of the ethnic groups of the United States are the African Americans.']
+webNLG,['United_States | ethnicGroup | Asian_Americans'],"['An ethnic group of the United States is Asian Americans.', 'Asian Americans are an ethnic group in the U.S.', 'There is an ethnic group of Asians in the United States.']"
+webNLG,['United_States | ethnicGroup | White_Americans'],['One United States ethnic group is White Americans.']
+webNLG,['United_States | language | English_language'],"['English is the language of the U.S..', 'English is the language in the United States.', 'The English language is the language of the United States.']"
+webNLG,['United_States | leaderName | Barack_Obama'],"['The leader of the United States was Barack Obama.', 'Barack Obama is the leader of the U.S.', 'Barack Obama is the leader of the United States.']"
+webNLG,['United_States | leaderName | Joe_Biden'],"['Joe Biden is a leader of the United States.', 'The leader of the United States is Joe Biden.', 'Joe Biden is a leader of the U.S.']"
+webNLG,['United_States | leaderName | John_Roberts'],"['The United States of America`s Chief Justice is John Roberts.', 'John Roberts is a leader in the United States.']"
+webNLG,['United_States | leaderTitle | President_of_the_United_States'],"['The leader of the United States is known as the President of the United States.', 'The title of the leader of the United States is President of the United States.', 'The leader of the United States has the title President of the United States.']"
+webNLG,['Virginia | country | United_States'],['Virginia is in the United States.']

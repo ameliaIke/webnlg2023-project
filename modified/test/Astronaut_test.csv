@@ -1,0 +1,10 @@
+prefix,input_text,target_text
+webNLG,[],"['The nationality of Alan Bean is United States.', ""Alan Bean's nationality is the United States."", 'Alan Bean is American.', 'Alan Bean was American.', 'Alan Bean is a US national.']"
+webNLG,[],"['Buzz Aldrin was a backup pilot on the Apollo 8 mission.', ""Apollo 8's backup pilot was Buzz Aldrin.""]"
+webNLG,[],"['Buzz Aldrin graduated from Massachusetts Institute of Technology with a Sc.D in 1963.', 'Buzz Aldrin graduated in 1963 from MIT with a Sc.D.', 'Buzz Aldrin graduated from MIT with a Sc. D in 1963.', 'Buzz Aldrin graduated from Massachusetts Institute of Technology, Sc.D. 1963.', 'Buzz Aldrin graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science.']"
+webNLG,[],"['Buzz Aldrin was a crew member of Apollo 11.', 'Buzz Aldrin was a member of the Apollo 11 crew.', 'Buzz Aldrin was a crew member on Apollo 11.']"
+webNLG,[],"['NASA selected Buzz Aldrin in 1963.', 'Buzz Aldrin was selected by NASA in 1963.', 'Buzz Aldrin was selected to work for NASA in 1963.', 'Buzz Aldrin was hired by NASA in 1963.']"
+webNLG,[],"['The gemstone of California is Benitoite.', 'California has a gemstone called Benitoite.', 'Benitoite is a gemstone from California.', 'Benitoite is a gemstone found in California.']"
+webNLG,[],"['Elliot See died on 28 February, 1966.', 'Elliot See died on the 28th of February 1966.', 'Elliot See died on February 28, 1966.', 'Elliot See died in 1966-02-28.', 'Elliot See lived until the 28th of February 1966.', 'Elliot See died on February 28,1966.']"
+webNLG,[],"['Elliot See died in St. Louis.', 'Elliot See died in St Louis.']"
+webNLG,[],"['Elliot See is dead.', 'Elliot See has died.', 'Elliot See is deceased.']"

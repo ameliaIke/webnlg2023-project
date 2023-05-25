@@ -1,0 +1,30 @@
+prefix,input_text,target_text
+webNLG,[],"['11 Diagonal Street is located in South Africa.', 'The address, 11 Diagonal Street is located in South Africa.']"
+webNLG,[],"['250 Delaware Avenue has the Postmodern style of architecture.', 'The architectural style of 250 Delaware Avenue is Postmodern.']"
+webNLG,[],['300 North LaSalle is located in Chicago.']
+webNLG,[],"['George Winkler was the architect of 320 South Boston Building.', 'George Winkler is the architect of the 320 South Boston Building.']"
+webNLG,[],"['The building of 320 South Boston Building started in 1910.', 'Construction of the 320 South Boston Building began in 1910.']"
+webNLG,[],"['The AC Hotel Bella Sky Copenhagen has 814 rooms.', 'The number of rooms in the AC Hotel Bella Sky Copenhagen is 814.']"
+webNLG,[],"['The architects James Pain and George Richard Pain designed Adare Manor,.', 'James Pain and George Richard Pain are the architects of the Adare Manor.', 'James Pain and George Richard Pain were the Adare Manor architects.']"
+webNLG,[],['Adisham Hall is located in Haputale.']
+webNLG,[],['Akita Museum of Art is located in Japan.']
+webNLG,[],['The College of William and Mary is the owner of the Alan B. Miller Hall.']
+webNLG,[],"['The address for Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road.', 'The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road.']"
+webNLG,[],"['Asher and Mary Isabelle Richardson House has the reference number 88002539 in the National Register of Historic Places.', 'The Asher and Mary Isabelle Richardson House has a reference number of 88002539 in the National Register of Historic Places.', 'The Reference Number in the National Register of Historic Places for Asher and Mary Isabelle Richardson House is 88002539.']"
+webNLG,[],"['Julia Morgan was the architect of the grounds of Asilomar Conference.', 'The architect of Asilomar Conference Grounds was Julia Morgan.']"
+webNLG,[],"['Asilomar Conference Grounds is designed based on the architecture style of ""Arts and Crafts Movement and American craftsman Bungalows"".', 'The architecture of Asilomar Conference Grounds is of the ""Arts and Crafts Movement and American Craftsman Bungalows"".']"
+webNLG,[],"['The Asilomar Conference Grounds were constructed in 1913.', 'The Asilomar Conference Grounds was constructed in 1913.']"
+webNLG,[],"['Asser Levy Public Baths are located in New York City.', 'The Asser Levy Public Baths are located in New York City.']"
+webNLG,[],"['Buffalo New York is part of Erie County New York.', 'Buffalo, New York is part of Erie County in New York.']"
+webNLG,[],"['The leader of Buffalo, New York is Byron Brown.', 'Byron Brown is the leader of Buffalo, New York.', 'The leader of Buffalo, New York, is Byron Brown.']"
+webNLG,[],"['County Limerick is a part of Munster.', 'County Limerick is part of Munster.', 'Limerick County is part of Munster.']"
+webNLG,[],['Críona Ní Dhálaigh was Lord Mayor of Dublin.']
+webNLG,[],"['Mulatu Teshome is an Ethiopian leader.', 'The name of the leader in Ethiopia is Mulatu Teshome.']"
+webNLG,[],"['The demonym for people living in India is Indian.', 'A demonym for residents of India is Indian People.']"
+webNLG,[],"['Julia Morgan has designed many significant buildings, including the Los Angeles Herald Examiner building.']"
+webNLG,[],"['Live Nation Entertainment is located at Beverly Hills, California.', 'Live Nation Entertainment is located in Beverly Hills, California.']"
+webNLG,[],"['Manhattan is part of New York.', 'Manhattan is a part of New York.']"
+webNLG,[],"['New York City is a part of New Netherland.', 'New York city is part of New Netherland.', 'New York City was part of New Netherland.']"
+webNLG,[],"['Pacific Grove, California is part of California.', 'Pacific Grove is part of California.']"
+webNLG,[],"['The white South Africans are an ethnic group of South Africa.', 'One of the ethnic groups in South Africa is White South Africans.']"
+webNLG,[],"['A leader in the United Kingdom is Elizabeth 11.', 'The leader of the United Kingdom is Elizabeth II.', 'The leader of United Kingdom is Elizabeth II.']"
